@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Asset Store/Almgp_sci-fi displays/test.unity
+  isLoaded: 1
+  isActive: 1
